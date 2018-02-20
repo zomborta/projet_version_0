@@ -1,0 +1,4 @@
+plateforme_frontoffice:
+    resource: "@PlateformeFrontofficeBundle/Resources/config/routing.yml"
+    prefix:   /
+
